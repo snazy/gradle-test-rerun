@@ -18,6 +18,6 @@ Usage:
 
 ```
 plugins {
-    id("org.caffinitas.gradle.testrerun"") version "0.1"
+    id("org.caffinitas.gradle.testrerun") version "0.1"
 }
 ```
