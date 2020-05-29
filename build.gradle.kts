@@ -54,8 +54,8 @@ gradlePlugin {
 }
 
 pluginBundle {
-    website = "https://github.com/snazy/gradle-testrerun/"
-    vcsUrl = "https://github.com/snazy/gradle-testrerun/"
+    website = "https://github.com/snazy/gradle-test-rerun/"
+    vcsUrl = "https://github.com/snazy/gradle-test-rerun/"
     description = project.description
     tags = listOf("test", "repeat")
 
